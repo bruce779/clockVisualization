@@ -2,11 +2,11 @@
   "name": "Live Clock",
   "organization": "Your Name",
   "description": "A real-time digital clock",
-  "logoUrl": "https://bruceyourname.github.io/looker-live-clock/clock.png",
-  "supportUrl": "https://bruceyourname.github.io/looker-live-clock/",
-  "privacyPolicyUrl": "https://bruceyourname.github.io/looker-live-clock/",
-  "termsOfServiceUrl": "https://bruceyourname.github.io/looker-live-clock/",
-  "packageUrl": "https://bruceyourname.github.io/looker-live-clock/",
+  "logoUrl": "https://bruce779.github.io/looker-live-clock/clock.png",
+  "supportUrl": "https://bruce779.github.io/looker-live-clock/",
+  "privacyPolicyUrl": "https://bruce779.github.io/looker-live-clock/",
+  "termsOfServiceUrl": "https://bruce779.github.io/looker-live-clock/",
+  "packageUrl": "https://bruce779.github.io/looker-live-clock/",
   "components": [
     {
       "id": "live_clock",
@@ -18,4 +18,5 @@
     }
   ]
 }
+
 
