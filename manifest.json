@@ -1,17 +1,20 @@
 {
-  "name": "Live Clock for Looker Studio",
+  "name": "Live Clock",
   "organization": "Your Name",
-  "description": "A real-time digital clock for use in Looker Studio Dashboards",
+  "description": "A real-time digital clock",
+  "logoUrl": "https://bruceyourname.github.io/looker-live-clock/logo.png",
+  "supportUrl": "https://bruceyourname.github.io/looker-live-clock/",
+  "privacyPolicyUrl": "https://bruceyourname.github.io/looker-live-clock/",
+  "termsOfServiceUrl": "https://bruceyourname.github.io/looker-live-clock/",
+  "packageUrl": "https://bruceyourname.github.io/looker-live-clock/",
   "components": [
     {
       "id": "live_clock",
       "name": "Live Clock",
       "description": "Displays a live updating clock",
       "resource": {
-        "js": "viz.js",
-        "css": ""
+        "js": "viz.js"
       }
     }
   ]
 }
-
