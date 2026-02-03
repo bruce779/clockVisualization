@@ -1,0 +1,21 @@
+{
+  "name": "Live Clock",
+  "organization": "Your Name",
+  "description": "A real-time digital clock",
+  "logoUrl": "https://your-site.com/logo.png",
+  "supportUrl": "https://your-site.com/support",
+  "privacyPolicyUrl": "https://your-site.com/privacy",
+  "termsOfServiceUrl": "https://your-site.com/terms",
+  "packageUrl": "https://your-site.com/",
+  "components": [
+    {
+      "id": "live_clock",
+      "name": "Live Clock",
+      "description": "Displays a live updating clock",
+      "resource": {
+        "js": "viz.js",
+        "css": ""
+      }
+    }
+  ]
+}
