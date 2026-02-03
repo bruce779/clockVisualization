@@ -2,7 +2,7 @@
   "name": "Live Clock",
   "organization": "Your Name",
   "description": "A real-time digital clock",
-  "logoUrl": "https://bruceyourname.github.io/looker-live-clock/logo.png",
+  "logoUrl": "https://bruceyourname.github.io/looker-live-clock/clock.png",
   "supportUrl": "https://bruceyourname.github.io/looker-live-clock/",
   "privacyPolicyUrl": "https://bruceyourname.github.io/looker-live-clock/",
   "termsOfServiceUrl": "https://bruceyourname.github.io/looker-live-clock/",
@@ -18,3 +18,4 @@
     }
   ]
 }
+
