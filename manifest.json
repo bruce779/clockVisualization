@@ -13,6 +13,7 @@
       "name": "Live Clock",
       "description": "Displays a live updating clock",
       "resource": {
+        "html": "index.html",
         "js": ["viz.js"]
       }
     }
