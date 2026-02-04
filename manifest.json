@@ -16,6 +16,9 @@
       "resource": {
         "html": "index.html",
         "js": ["viz.js"]
+      },
+      "data": {
+        "fields": []
       }
     }
   ]
