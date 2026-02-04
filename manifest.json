@@ -14,8 +14,8 @@
       "name": "Live Clock",
       "description": "Displays a live updating clock",
       "resource": {
-        "html": "index.html",
-        "js": ["viz.js"]
+        "html": "https://bruce779.github.io/clockVisualization/index.html",
+        "js": ["https://bruce779.github.io/clockVisualization/viz.js"]
       },
       "data": {
         "fields": []
@@ -23,3 +23,4 @@
     }
   ]
 }
+
