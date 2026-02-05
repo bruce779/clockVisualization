@@ -3,18 +3,19 @@
   "organization": "Bruce",
   "description": "A real-time digital clock",
   "logoUrl": "https://bruce779.github.io",
-  "supportUrl": "https://bruce779.github.io/clockVisualization/",
-  "privacyPolicyUrl": "https://bruce779.github.io/clockVisualization/",
-  "termsOfServiceUrl": "https://bruce779.github.io/clockVisualization/",
-  "packageUrl": "https://bruce779.github.io/clockVisualization/",
+  "supportUrl": "https://bruce779.github.io",
+  "privacyPolicyUrl": "https://bruce779.github.io",
+  "termsOfServiceUrl": "https://bruce779.github.io",
+  "packageUrl": "https://bruce779.github.io",
   "components": [
     {
       "id": "live_clock",
       "name": "Live Clock",
       "description": "Displays a live updating clock",
       "resource": {
-        "html": "index.html",
-        "js": ["viz.js"]
+        "js": ["https://bruce779.github.io/viz.js"],
+        "config": "https://bruce779.github.io/viz.json",
+        "html": "https://bruce779.github.io/index.html"
       }
     }
   ]
