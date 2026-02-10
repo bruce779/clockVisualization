@@ -2,20 +2,22 @@
   "name": "Live Clock",
   "organization": "Bruce",
   "description": "A real-time digital clock",
-  "logoUrl": "https://bruce779.github.io",
+  "logoUrl": "https://bruce779.github.io/logo.png",
   "supportUrl": "https://bruce779.github.io",
   "privacyPolicyUrl": "https://bruce779.github.io",
   "termsOfServiceUrl": "https://bruce779.github.io",
   "packageUrl": "https://bruce779.github.io",
+  "devMode": true,
   "components": [
     {
       "id": "live_clock",
       "name": "Live Clock",
       "description": "Displays a live updating clock",
+      "iconUrl": "https://bruce779.github.io/icon.png",
       "resource": {
-        "js": ["https://bruce779.github.io/viz.js"],
-        "config": "https://bruce779.github.io/viz.json",
-        "html": "https://bruce779.github.io/index.html"
+        "js": "viz.js",
+        "config": "viz.json",
+        "css": "style.css"
       }
     }
   ]
