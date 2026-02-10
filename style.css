@@ -1,1 +1,28 @@
+/* Import a digital-style font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
 
+/* The main container for the visualization */
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh;           /* Use full height of the Looker Studio frame */
+  display: flex;           /* Enables Flexbox */
+  justify-content: center; /* Centers content horizontally */
+  align-items: center;     /* Centers content vertically */
+  background-color: transparent; /* Allows report background to show through */
+  overflow: hidden;        /* Prevents scrollbars */
+}
+
+/* The clock digits */
+#clock-display {
+  font-family: 'Orbitron', sans-serif; /* Digital font */
+  font-size: 18vmin;       /* Responsive size: scales with widget width OR height */
+  color: #00ff00;          /* Default bright green (hacker style) */
+  text-align: center;
+  letter-spacing: 0.05em;
+  
+  /* Optional: Cool Neon Glow Effect */
+  text-shadow: 0 0 10px rgba(0, 255, 0, 0.5),
+               0 0 20px rgba(0, 255, 0, 0.3);
+}
